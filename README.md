@@ -4,3 +4,4 @@ Tem como objetivo o desenvolvimento de técnicas introdutórias de processamento
 e Facebook, fazendo com que os exemplos didáticos exibidos durante o curso sejam extrapolados para usos emproblemas de cunho prático.
 
 
+by ricardomvv
